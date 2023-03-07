@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author brend
+ *
+ */
+module gerenciadorDeCursos {
+}
